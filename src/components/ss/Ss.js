@@ -85,7 +85,7 @@ const InstallAppSection = () => {
             Install the app
           </h2>
           <p className="text-gray-700 mb-8 max-w-sm">
-            It's never been easier to order food. Look for the finest discounts and you'll be lost in a world of delectable food.
+            It is never been easier to order food. Look for the finest discounts and you will be lost in a world of delectable food.
           </p>
           <div className="flex justify-center md:justify-start space-x-5">
             {/* Google Play button */}
